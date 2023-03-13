@@ -8,6 +8,7 @@ flask = "*"
 python-dotenv = "*"
 gunicorn = "*"
 pyngrok = "*"
+notion-client = "*"
 
 [dev-packages]
 
